@@ -58,7 +58,19 @@ const keySpeakers = [
   },
 ];
 
+const arrowUp = document.querySelector('.arrow-down');
+const btnMore = document.getElementById('showplus');
 const card = document.getElementById('speakers-container');
+btnMore.addEventListener('click', () => {
+  card.classList.toggle('speaker-class');
+  arrowUp.classList.toggle('arrow-up');
+  if (btnMore.innerHTML === 'MORE') {
+    btnMore.innerHTML = 'LESS';
+  } else {
+    btnMore.innerHTML = 'MORE';
+  }
+});
+
 function displaySpeakers(id) {
   card.innerHTML
             += `<div class="key-speakers-details-one">

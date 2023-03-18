@@ -62,7 +62,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Kano Global Tech Summit Website] <a name="about-project"></a>
 
-
 **[Kano Global Tech Summit Website]** This project was built as a capstone project. It is a sample of a global summit website.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -86,9 +85,6 @@ After you're finished please remove all the comments and instructions!
 - **[The website was designed to be responsive. This ensures an optimal layout when viewed on mobile phones and desktops]**
 - **[The project has a slide menu for mobile phone users]**
 - **[The speakers section of the web page was rendered dynamically using javascript]**
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,13 +110,12 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
--a code editor installed that can run HTML and CSS files 
+-a code editor installed that can run HTML and CSS files
 -linters installed and fully functional
 
 ### Setup
 
 Clone this repository to your desired folder. Use the command: git clone https://github.com/devalibello/devalibello.github.io.git
-
 
 ### Install
 
@@ -143,14 +138,15 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 To check for CSS or SCSS errors:
+
 - With linters correctly installed,
-npx stylelint "**/*.{css,scss}"
+  npx stylelint "\*_/_.{css,scss}"
 
 - To fix CSS or SCSS linters error:
-npx stylelint "**/*.{css,scss}" --fix
+  npx stylelint "\*_/_.{css,scss}" --fix
 
 - To fix javascript linters error:
-npx eslint . --fix
+  npx eslint . --fix
 
 ### Deployment
 
@@ -175,7 +171,6 @@ Example:
 - GitHub: [@githubhandle](https://github.com/devalibello)
 - Twitter: [@twitterhandle](https://twitter.com/i_am_aalee)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-bello-imoukhuede/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,10 +204,9 @@ If you like this project, kindly share my github repo with your friends and foll
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partner Fredo, Kenneth and my family for giving me the needed support.
+I would like to thank my coding partner Fredo, Kenneth and my family for giving me the needed support and Cindy Shin.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
