@@ -52,7 +52,10 @@
   display: flex;
   align-items: center;
   gap: 5%;
-  margin-left: 10%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .menu-item {
@@ -75,11 +78,17 @@
   color: #ec4327;
   border: 4px solid #ec4327;
   padding: 6px;
+  width: 100%;
+  margin-right: 40px;
+  text-align: center;
 }
 
 .summit-bar-logo {
-  margin-right: 10%;
-  transform: scale(0.7);
+  margin-right: 15%;
+}
+
+.main-kano-logo {
+  width: 60px;
 }
 
 .desktop-menu-bar {
@@ -521,6 +530,11 @@
   width: 20%;
   margin-right: 3%;
   transform: scale(0.65);
+}
+
+.global-summit-logo {
+  width: 20%;
+  margin-left: 375px;
 }
 
 .footer-text {
