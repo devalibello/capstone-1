@@ -811,7 +811,15 @@
     margin-bottom: 15px;
   }
 
-  .partner {
+  .see-more-bar {
     display: none;
+  }
+
+  .about-partner {
+    display: none;
+  }
+
+  .container-speaker {
+    height: auto;
   }
 }
