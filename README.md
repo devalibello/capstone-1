@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="img/global_minbar.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Global Summit Website</b></h3>
+  <h3><b>Kano Global Tech Summit Website</b></h3>
 
 </div>
 
@@ -60,10 +60,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Forms and Validation Collaborative project] <a name="about-project"></a>
+# 📖 [Kano Global Tech Summit Website] <a name="about-project"></a>
 
 
-**[Forms and Validation Collaborative project]** This project was built as a capstone project. It is a sample of a global summit.
+**[Kano Global Tech Summit Website]** This project was built as a capstone project. It is a sample of a global summit website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -209,7 +209,7 @@ If you like this project, kindly share my github repo with your friends and foll
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partner Fredo and my family for giving me the needed support.
+I would like to thank my coding partner Fredo, Kenneth and my family for giving me the needed support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,7 +221,5 @@ I would like to thank my coding partner Fredo and my family for giving me the ne
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
