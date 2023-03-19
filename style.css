@@ -48,6 +48,10 @@
   color: white;
 }
 
+.about-nav {
+  float: left;
+}
+
 .menu-bar-items {
   display: flex;
   align-items: center;
@@ -153,10 +157,13 @@
   padding: 0 16px;
 }
 
-.header-section {
+.background-about-picture {
   background-image: url('./img/mobile-background-about.png');
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.header-section {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -207,9 +214,13 @@
   font-weight: 400;
   font-size: 1em;
   line-height: 25px;
+  background-color: white;
+  border: 2px solid  #d9d9d9;
   text-align: center;
   padding: 20px 15px;
   color: black;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .about-contact {
@@ -397,6 +408,10 @@
   padding: 2%;
 }
 
+.main-program-background:hover {
+  border: 1px solid white;
+}
+
 .description-program-text {
   font-style: normal;
   font-weight: 700;
@@ -495,6 +510,7 @@
   padding: 0 5%;
   padding-top: 15px;
   padding-bottom: 15px;
+  display: none;
 }
 
 .partner-header {
@@ -526,6 +542,10 @@
   margin-bottom: 20px;
 }
 
+.footer-hide {
+  display: none;
+}
+
 .global-minbar-logo {
   width: 20%;
   margin-right: 3%;
@@ -534,7 +554,11 @@
 
 .global-summit-logo {
   width: 20%;
-  margin-left: 375px;
+}
+
+.logo-flex {
+  display: flex;
+  justify-content: center;
 }
 
 .footer-text {
@@ -570,6 +594,7 @@
   gap: 5px;
   padding-top: 5px;
   padding-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 .more {
@@ -594,6 +619,10 @@
 
 .speaker-class {
   height: auto;
+}
+
+.about-partner {
+  display: block;
 }
 
 @media screen and (min-width: 768px) {
@@ -815,11 +844,19 @@
     display: none;
   }
 
+  .partner {
+    display: block;
+  }
+
   .about-partner {
     display: none;
   }
 
   .container-speaker {
     height: auto;
+  }
+
+  .footer {
+    display: flex;
   }
 }
